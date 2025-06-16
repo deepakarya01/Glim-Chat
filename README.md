@@ -15,7 +15,7 @@
 ## Technologies Used
 
 **Frontend:**
-* **Vite react:**For building user interfaces.
+* **Vite react:** For building user interfaces.
 * **Zustand:** For global state management.
 * **React Router DOM:** For declarative routing.
 * **DaisyUi:** For some bool components.
